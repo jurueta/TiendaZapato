@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taller shoes</string>
+    <string name="txt_nom_principal">Shoe\'s store</string>
+    <string name="txt_genero">Gender:</string>
+    <string name="txt_genero_m">Male</string>
+    <string name="txt_genero_f">Female</string>
+    <string name="txt_tipo_zapato_1">Slipper</string>
+    <string name="txt_tipo_zapato_2">Classic shoe</string>
+    <string name="txt_marca">Shoe\'s brand:</string>
+    <string name="txt_total_p">Total to pay:</string>
+    <string name="txt_tipo_zapato">Shoe\'s Type:</string>
+    <string name="txt_marca_nike">Nike</string>
+    <string name="txt_marca_adidas">Adidas</string>
+    <string name="txt_marca_puma">Puma</string>
+    <string name="txt_entrada_cantidad">Enter cant</string>
+    <string name="txt_btn_calcular">Calcule</string>
+</resources>

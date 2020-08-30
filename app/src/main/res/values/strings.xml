@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TallerZapatos</string>
+    <string name="txt_nom_principal">Tienda de zapatos</string>
+    <string name="txt_genero">Genero:</string>
+    <string name="txt_genero_m">Masculino</string>
+    <string name="txt_genero_f">Femenino</string>
+    <string name="txt_tipo_zapato_1">Zapatilla</string>
+    <string name="txt_tipo_zapato_2">Clásico</string>
+    <string name="txt_marca">Marca:</string>
+    <string name="txt_total_p">Total a pagar:</string>
+    <string name="txt_tipo_zapato">Tipo de Zapato:</string>
+    <string name="txt_marca_nike">Nike</string>
+    <string name="txt_marca_adidas">Adidas</string>
+    <string name="txt_marca_puma">Puma</string>
+    <string name="txt_entrada_cantidad">Ingrese Cantidad de zapatos</string>
+    <string name="txt_btn_calcular">Calcular</string>
+    <string-array name="tipo_zapato">
+        <item></item>
+        <item>@string/txt_tipo_zapato_1</item>
+        <item>@string/txt_tipo_zapato_2</item>
+    </string-array>
+    <string-array name="marcas_zapatos">
+        <item>@string/txt_marca_nike</item>
+        <item>@string/txt_marca_adidas</item>
+        <item>@string/txt_marca_puma</item>
+    </string-array>
+</resources>
