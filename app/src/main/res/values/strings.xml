@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">TallerZapatos</string>
+    <string name="app_name">Zapateria</string>
     <string name="txt_nom_principal">Tienda de zapatos</string>
-    <string name="txt_genero">Genero:</string>
+    <string name="txt_genero">Género:</string>
     <string name="txt_genero_m">Masculino</string>
     <string name="txt_genero_f">Femenino</string>
     <string name="txt_tipo_zapato_1">Zapatilla</string>
@@ -13,10 +13,10 @@
     <string name="txt_marca_adidas">Adidas</string>
     <string name="txt_marca_puma">Puma</string>
     <string name="txt_entrada_cantidad">Ingrese Cantidad de zapatos</string>
-    <string name="txt_selecion">Escoga una opcion</string>
+    <string name="txt_selecion">Escoja una opción</string>
     <string name="txt_btn_calcular">Calcular</string>
     <string name="txt_btn_limiar">Limpiar</string>
-    <string name="txt_error_genero">Seleccione un genero</string>
+    <string name="txt_error_genero">Seleccione un género</string>
     <string-array name="tipo_zapato">
         <item>@string/txt_selecion</item>
         <item>@string/txt_tipo_zapato_1</item>
