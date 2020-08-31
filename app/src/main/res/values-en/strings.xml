@@ -15,4 +15,7 @@
     <string name="txt_marca_puma">Puma</string>
     <string name="txt_entrada_cantidad">Enter cant</string>
     <string name="txt_btn_calcular">Calcule</string>
+    <string name="txt_selecion">choose a option</string>
+    <string name="txt_btn_limiar">Clear</string>
+    <string name="txt_error_genero">Choose a gender</string>
 </resources>

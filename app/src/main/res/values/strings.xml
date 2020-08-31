@@ -13,13 +13,17 @@
     <string name="txt_marca_adidas">Adidas</string>
     <string name="txt_marca_puma">Puma</string>
     <string name="txt_entrada_cantidad">Ingrese Cantidad de zapatos</string>
+    <string name="txt_selecion">Escoga una opcion</string>
     <string name="txt_btn_calcular">Calcular</string>
+    <string name="txt_btn_limiar">Limpiar</string>
+    <string name="txt_error_genero">Seleccione un genero</string>
     <string-array name="tipo_zapato">
-        <item></item>
+        <item>@string/txt_selecion</item>
         <item>@string/txt_tipo_zapato_1</item>
         <item>@string/txt_tipo_zapato_2</item>
     </string-array>
     <string-array name="marcas_zapatos">
+        <item>@string/txt_selecion</item>
         <item>@string/txt_marca_nike</item>
         <item>@string/txt_marca_adidas</item>
         <item>@string/txt_marca_puma</item>

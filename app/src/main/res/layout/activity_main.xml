@@ -97,14 +97,29 @@
         android:hint="@string/txt_entrada_cantidad"
         android:inputType="number" />
 
-    <Button
-        android:id="@+id/btnCalcularTotal"
+    <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_weight="1"
-        android:onClick="muestragenero"
-        android:text="@string/txt_btn_calcular"
-        android:textAlignment="center" />
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnCalcularTotal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="Muestratotal"
+            android:text="@string/txt_btn_calcular"
+            android:textAlignment="center" />
+
+        <Button
+            android:id="@+id/btnLimpiar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:onClick="limpiar"
+            android:text="@string/txt_btn_limiar" />
+    </LinearLayout>
 
     <TextView
         android:id="@+id/txtResultado"
